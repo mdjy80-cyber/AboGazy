@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="#F5F5F5">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="#1565C0"
+            android:layout_marginBottom="24dp" />
+
+        <Button android:id="@+id/btn_transfer" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_transfer" android:textSize="16sp" android:layout_marginBottom="8dp" />
+        <Button android:id="@+id/btn_customers" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_customers" android:textSize="16sp" android:layout_marginBottom="8dp" />
+        <Button android:id="@+id/btn_debts" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_debts" android:textSize="16sp" android:layout_marginBottom="8dp" />
+        <Button android:id="@+id/btn_sham_cash" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_sham_cash" android:textSize="16sp" android:layout_marginBottom="8dp" />
+        <Button android:id="@+id/btn_settings" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_settings" android:textSize="16sp" android:layout_marginBottom="8dp" />
+        <Button android:id="@+id/btn_backup" android:layout_width="match_parent" android:layout_height="56dp" android:text="@string/menu_backup" android:textSize="16sp" />
+
+    </LinearLayout>
+</ScrollView>

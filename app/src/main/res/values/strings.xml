@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ابو غازي - تحويل رصيد</string>
+    <string name="menu_transfer">تحويل رصيد</string>
+    <string name="menu_customers">الزبائن</string>
+    <string name="menu_debts">سجل الديون</string>
+    <string name="menu_sham_cash">سجل شام كاش</string>
+    <string name="menu_settings">الاعدادات</string>
+    <string name="menu_backup">النسخ الاحتياطي</string>
+
+    <string name="select_company">اختر الشركة</string>
+    <string name="select_category">اختر الفئة</string>
+    <string name="select_customer">اختر الزبون</string>
+    <string name="btn_send">ارسال</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">الغاء</string>
+    <string name="btn_delete">حذف</string>
+    <string name="btn_add">اضافة</string>
+    <string name="btn_edit">تعديل</string>
+    <string name="btn_back">رجوع</string>
+
+    <string name="title_transfer">تحويل رصيد</string>
+    <string name="title_customers">الزبائن</string>
+    <string name="title_debts">سجل الديون</string>
+    <string name="title_settings">الاعدادات</string>
+    <string name="title_manage_companies">ادارة الشركات</string>
+    <string name="title_manage_categories">ادارة الفئات</string>
+
+    <string name="hint_name">الاسم</string>
+    <string name="hint_phone">رقم الهاتف</string>
+    <string name="hint_price">السعر</string>
+    <string name="hint_value">القيمة</string>
+    <string name="hint_note">ملاحظة</string>
+</resources>
